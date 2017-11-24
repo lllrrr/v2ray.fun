@@ -1,7 +1,6 @@
 {
     "network": "tcp",
     "security": "",
-    "tlsSettings": {},
     "tcpSettings": {
         "connectionReuse": true,
         "header": {
